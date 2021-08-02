@@ -43,6 +43,24 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
+[naverpost_bluevinyl_albumspecial]
+title = "블루바이닐 ─ Album Special"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=477089&memberNo=24373938"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_bluevinyl_concertspecial]
+title = "블루바이닐 ─ Concert Special"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=477089&memberNo=24373938"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
 [naverpost_smtown_special]
 title = "SMTOWN 신곡 포스트 ─ SPECIAL"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
