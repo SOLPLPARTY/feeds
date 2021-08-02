@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ UPCOMING</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Aug 2021 00:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 10:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] 여름이다! 레드벨벳 흥을 돋우자!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32087666&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32087666&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Aug 2021 10:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDJfNzkg/MDAxNjI3ODY3MDI0NDA1.JwZAGAzd9uR6HwcCcyM7wz-YGFnU1cPJSJ3AbKYmWO4g.2d5CVcjunSldpsZKqLIZJwQWABppVxuU0UFSJc5hkgcg.JPEG/IjxASXJedi_PYRWpPfsE5dZochTo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태연] 싱글 'Weekend' 맞이
 여름 태연 원포인트 레슨]]></title>
@@ -172,14 +180,6 @@ NCT DREAM X HRVY]]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDdfMjIy/MDAxNTQ5NTI1MzI0MDA0.nqMcPBnOM5alcztF-vUC_OxnClMnsxGU2qnnRSADcBog.4y6_cQ6qaSFO3FVYHV8BHDxEh7SPXiNhUp53ZVyvryUg.JPEG/IfeO1zDcCMttnQWaxPFU6ey_XPD0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Upcoming STATION] Colde (콜드)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=17618171&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=17618171&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTAxMThfMTQ5/MDAxNTQ3NzgxNzcyNjg2.kGhfRNVtD-h9VYssnoScr1XKvRsmixlIimLaAT_qqSEg.5Bjh_yl46fbDBI39GzZILxi-eOTRGDaWZ049QOnDQfog.JPEG/I_G9hYa8I6LN9rfGnmVDkPALi8UQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
