@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN 신곡 포스트 ─ PLAYLIST</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 02 Aug 2021 00:35:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[샤이니] 정규 7집 기다리며 다시 듣는 명곡 플레이리스트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30623603&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30623603&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDJfMjUg/MDAxNjEyMjMyNDgxMzcz.EZNoSWyVzHvgzSdDpqj-UiHx7jQyOOdB1UJZFaIdY0kg.j4etcIhQX70BhJqdQbi0k0mzxJWHF2QhOEfLfctOFKEg.JPEG/Is0iAtdsbQnBJPVG9XC6OWVJLpmc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[설특집] 설 특선 MV 추천! 
+연휴에 즐기는 다이나믹한 MV]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=17762474&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=17762474&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfMjIz/MDAxNTQ5MDI0MDI1MDk1.F0metFoGJ8jj7pTUhC7qM0o8AX0pzJnM2MEfHBT340wg.T5rv1bl-Xb2oJ8cTZ5biYvsgalD9j-Cb0d0oPraPcjMg.PNG/IJPRHcdkipXg5JB41ClPeVU_b3Do.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 2019년은 설날부터!
+★새해 PLAYLIST ★]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=17752159&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=17752159&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
