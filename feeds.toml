@@ -5,6 +5,7 @@ entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
+contentSelector = "span.writer_name"
 
 [naverpost_msbsound_behindstory]
 title = "MSBSOUND ─ Behind Story"
@@ -13,6 +14,7 @@ entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
+contentSelector = "span.writer_name"
 
 [naverpost_poclanos_interview]
 title = "POCLANOS ─ 포크라노스 인터뷰"
@@ -21,6 +23,7 @@ entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
+contentSelector = "span.writer_name"
 
 [naverpost_poclanos_special]
 title = "POCLANOS ─ 뮤직스페셜"
@@ -29,6 +32,7 @@ entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
+contentSelector = "span.writer_name"
 
 [naverpost_poclanos_commentary]
 title = "POCLANOS ─ 포크라노스 코멘터리"
@@ -37,3 +41,40 @@ entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_smtown_special]
+title = "SMTOWN 신곡 포스트 ─ SPECIAL"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_smtown_upcoming]
+title = "SMTOWN 신곡 포스트 ─ UPCOMING"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=434189&memberNo=41350603"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_smtown_station]
+title = "SMTOWN 신곡 포스트 ─ SM STATION"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=434191&memberNo=41350603"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_smtown_playlist]
+title = "SMTOWN 신곡 포스트 ─ PLAYLIST"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=434148&memberNo=41350603"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
