@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Aug 2021 03:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 09:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연 (HYO)의 'Second' 
+들으며 지친 일상 힐링해효]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32118375&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32118375&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 09 Aug 2021 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDZfMjIw/MDAxNjI4MjE3MjA5NTAy.ceXOdmKMtMraUnHDZnOk1fVhIT9qogqgEdJSg5ooNIgg.SncnzVWuohHXlgUyuCMva6ew8p771WyRH26hO8s2SYMg.JPEG/IBYG_5wxUg3CxOAXZ_cqqDDRzzDE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['7월의 크리스마스 (Christmas in July)',
 강타와 함께 하실래요?]]></title>
@@ -169,14 +178,6 @@ EXO에게 다가가는 중]]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjZfMzUg/MDAxNjIxOTkyMjU4MzQx.r-4CAYm1xwifxKv_YD-VE1ZcWG_cbrz_hUnLnvIW5nMg.lnMkENCOtKWhfacukzlXJ7fUWgDLEfxGFVV8KDNPnOAg.JPEG/IDFazk8z2TmCI7_O7i5Ja_BIhtos.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매력둥이 조이가 왔조이!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31543314&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31543314&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjBfOTYg/MDAxNjIxNTA5NDQ4MTMz.pq7XuWI_-FMmTvHjg9QQWjXTpccB8zlXjXX3OcdDzp4g.YUtnWdekI4pcFkbyRZxupweyv0JPZ2JUqDOLlXpRq8Qg.JPEG/Ir1JQ-T7ByCWNPX57ihs-EOUfsdA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
