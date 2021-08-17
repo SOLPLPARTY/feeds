@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 03:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 09:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,15 @@
             <pubDate>Mon, 16 Aug 2021 09:37:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTVfMTE0/MDAxNjI5MDE3NjI3MDkx.QgCtf9KEWzvGzxPWxBXdmKhANX2ve5KZUzIT2laYIj4g.VRyeCDQV9zHVjop43h9H3Tte6L-TQZb5Y6yH81dyTjEg.JPEG/IDGCWufOOLrG4qJqI9L0ycxpzL5Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러움이 두 배!
+WayV-TEN&YANGYANG 'Low Low']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Tue, 17 Aug 2021 09:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMTA1/MDAxNjI5MTY2OTM3MDY1.WNf_R01TSX9owVzvo0sLnWTDiDz8Qe63PrQwX9X2Z9Ig.W1l8X5VRosMXSiNSMd0VfOpXMjo2NHnnvIxiBar2OBgg.JPEG/Ixs6_TiOXowdUoEdubw08VKzFElQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효연 (HYO)의 'Second' 
@@ -170,14 +179,6 @@ EXO에게 다가가는 중]]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDZfNTYg/MDAxNjIwMjY2Njk2OTUy.wCUpU05hNyEm6kdNXADMfBYQTZ8dMxwIUQpKcZeLocMg.-ovHxYWXNq6kDoZaBzXpnvH7qQFuuXMeDlKMg_Ecf7gg.JPEG/IibuHwSF9prqcW03K5Gj0puzyUOA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권유리] 네? 사극여신 처음 보세요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31597709&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31597709&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjhfMTU1/MDAxNjIyMTY1Njg5MDc5.ebNpouxKM2FPCD6TPzHc9_Se-z-NWQAUj8rpoDzP200g.oWEshOXi8JRAhJm783tR4RUWRs5Sp6vwTuCFde72SyAg.JPEG/IDzqWqdeV7A_s9X_Q8lxgWiJdiuY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
