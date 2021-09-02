@@ -4,9 +4,17 @@
         <title>문화인 ─ Special</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 15:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 03:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[문플리] 첫 데이트할 때 듣기 좋은 음악 모음]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32288714&amp;memberNo=32269214&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32288714&amp;memberNo=32269214&amp;navigationType=push</guid>
+            <pubDate>Thu, 02 Sep 2021 03:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfNDgg/MDAxNjMwNDg4NjExMDM4.ZknShAXUWZ7umaOhOujovoIs-5QpWbee4WBTuJ4Uiw4g.-vRjJDFF-4odpyGA12aeGaz0iPHsQI3bpsq7CBJFc84g.JPEG/IDyP-nvFoyUqWAlaO6r9z-rLcuVo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문플리] 방에서 단둘이 듣기 좋은 인디음악 모음]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32238566&amp;memberNo=32269214&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 Aug 2021 10:49:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTVfMjY1/MDAxNjE4NDY2ODM2MDIx.EY6RG-CFA4Avf6AlmsQifTBAjQ5fz843USmKLMyrYkAg.v6HftQuzqybEgKEqGcWk5l4OT80BFNhOgPuXC-6VruUg.JPEG/Ip8MJ9AdDIeEqF6GNg_E4AzNlhOk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문플리] 놓치면 후회할 인디 신곡 모음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31138266&amp;memberNo=32269214&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31138266&amp;memberNo=32269214&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 10:49:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDVfMTY4/MDAxNjE3NjA3MTM5NDIz.0AC9ZT4L8fYrB47kxZGDyPwGod2yslUYp5xYYAEsXAkg.WZBFD7oHbgHNj0CenbRW-CaQqULG8eRvv6NbhcPgHzEg.JPEG/IpboqRPIVzwXAxuziD_Z3txAEjbg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
