@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 15:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 03:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[임윤아] Photo Shoot For S♡NE]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32289994&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32289994&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 03 Sep 2021 03:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDJfMTYg/MDAxNjMwNTUwMDA3NDY2.diCmpOQJ5HqQnkBOkV2rB-wFTJktPBovj5_XxU-P_GUg.qgI__okqx5kW90YUcmfAYpoatfVyzyYyh67plyJTRucg.JPEG/IF-YnFB3nOOGV_PYtH6aIvKg-ZP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김예림] 과거로 8번 떠난다(ft. 블루버스데이)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32266814&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,14 +179,6 @@ WayV-KUN&XIAOJUN의
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDJfMjMy/MDAxNjIyNjAyNzAzMTc0.EKpA-GHO-z40uuYn4tJ8wvTRcWMKeiAAMcxvKtBtV_4g.HvoxxMa9ALBlMXUC1JZC_yPISJj5DznfGT3caMfcdRgg.JPEG/ItaAGnmUeL5oS-lgsBEDe0kXqBdc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '안녕 (Hello)'! 조이가 전하는 초록빛 감성!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31613720&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31613720&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MzFfMjc1/MDAxNjIyNDQxODk4OTE1.XLUmoc3krvZ_UK5xtHeY6TCvhgwZl2jmtG5ato0VUHAg.x9OH_z7Ohwjc9Z-SUEU-u7xRWQm-4dv2En2gu2HwS8Mg.JPEG/IbmPu1aQHFy0WIIgmDqv4TbpOeGE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
