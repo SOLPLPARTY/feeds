@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 03:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 09:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성민이 전하는 힐링 
+‘Goodnight, Summer’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32313928&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32313928&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 08 Sep 2021 09:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMTgy/MDAxNjMwOTEwOTQwNTE1.hK6Hqc6LPkNgOsbXAI1I32A4Lt9l_IJN3Crzo1XniVwg.ANFU0ecfa6FqcPiwWU89vikiSSlUuZd0oHWm1AeSR0og.JPEG/I1OyDA7_8ETF8XRF4Fwzk3ElLiXk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이철우 입니다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32312954&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,14 +180,6 @@ WayV-KUN&XIAOJUN의
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTBfMTEg/MDAxNjIzMzMxMzk1NDk4.bPAExEgxZjGxTcMTm6v5-AvGQC-D2umDGNkozl9cjdYg.ss0nxjYQK5MMrCqaaEye1sgcuC-F-le5F9R0mJnT_YIg.JPEG/IQaeQN3qJpZDkkLu9NVelTX_Ezc0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO님이 'DON'T FIGHT THE FEELING'을 선물했습니다.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31662851&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31662851&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDdfMTEy/MDAxNjIzMDMwMDY4NTAw.QOf8rWHGDsy5yEhZuYo2g8iyai9AmcoHbtk213GK16og.dscclBrp2WoQPnkEMn_0DdgqQ_sHmfYxzz1VAteVHbMg.JPEG/IiX2DmReshERCjnBl-ttaX_snEQE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
