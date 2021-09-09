@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ UPCOMING</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 03:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 09:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[키] 만능열쇠 사용설명서]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32332842&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32332842&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Sep 2021 09:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDlfMTQx/MDAxNjMxMTEzNjY0NDUz.SZDn7qAaCh9c_nEVPEJDcxzIyi3pXcIVXc-9hMTFZAgg.IJCUWkCU1qtEXiLyHIqODM24oMw0z-TJVxFrZR6uFBsg.JPEG/IgofyxnRTushkvpz2I7KegphDkyk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 여름이다! 레드벨벳 흥을 돋우자!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32087666&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,15 +179,6 @@ NCT DREAM X HRVY]]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMjBfMTEw/MDAxNTUwNjUxOTU3MTgy.nv5mtzYE6oYIqbA66xT8_-V7u88kEX_4fzWlTzjF9Z4g.PUv12RWO9XlKMU9lZ4pbf0s4kpdJrn2BWu1-fXniNvMg.JPEG/IOAx4YrvlaPrYoHKkRQfi9DVXHo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Upcoming STATION]
-키 (KEY)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=17796134&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=17796134&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDdfMjIy/MDAxNTQ5NTI1MzI0MDA0.nqMcPBnOM5alcztF-vUC_OxnClMnsxGU2qnnRSADcBog.4y6_cQ6qaSFO3FVYHV8BHDxEh7SPXiNhUp53ZVyvryUg.JPEG/IfeO1zDcCMttnQWaxPFU6ey_XPD0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
