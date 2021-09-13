@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 03:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 09:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -820,6 +820,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 02 Aug 2021 00:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 담아, 백예린의 커버 앨범 [선물] (블루바이닐 ─ Album Special)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32292923&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32292923&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Mon, 13 Sep 2021 09:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfMjc1/MDAxNjMxMDAyNzg2NDYx.xJM2-ZDHhQOmoawZqEKs7zRReYno58pFN4J71FvIzpMg.NUdgb_qjoXZkdvCZqNtOoO7pnzSK5jB8cA2-4DIJ_lAg.JPEG/I_bcfH7ciqaSxJg5MbeyQA5cLTl4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rock Band, The Volunteers (블루바이닐 ─ Album Special)]]></title>
