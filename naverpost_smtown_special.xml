@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 03:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 09:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32370536&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32370536&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 Sep 2021 09:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjMw/MDAxNjMxNjI4NTg3MTE4.4Vryb2JsVsIYzZsw1fZ1iU4WKbZIwzJTcsMcRute_wog.bp4pEhkNoWXvhVf0bVv7Ycey8cSntLgLpf_G214WvRYg.JPEG/IY-4NLZF8Wh8LR29D1e44jP1pFfs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
 ‘Goodnight, Summer’]]></title>
@@ -170,16 +178,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMjE3/MDAxNjI0MzUwMTE3NTQw.naF1v-y7Rd8mr1ZL7NJnvRVLANDqTEsFgR8pCwWlV34g.BIcFiiCIjhy951Vxff-QZtFxOV53fqqyPPXEl0laVG4g.JPEG/I9NFnvvVPFw2eNZD4kx-KN47Irpc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다려온 이런 감성, 
-WayV-KUN&XIAOJUN의 
-첫 싱글 'Back To You']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31682901&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31682901&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MTBfMTEg/MDAxNjIzMzMxMzk1NDk4.bPAExEgxZjGxTcMTm6v5-AvGQC-D2umDGNkozl9cjdYg.ss0nxjYQK5MMrCqaaEye1sgcuC-F-le5F9R0mJnT_YIg.JPEG/IQaeQN3qJpZDkkLu9NVelTX_Ezc0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
