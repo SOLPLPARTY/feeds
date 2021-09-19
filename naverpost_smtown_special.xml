@@ -4,9 +4,19 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 15:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 03:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최민호] '우굡빠~♥' 
+웹툰 실사화 비주얼 
+(ft. 유미의 세포들)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32396706&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32396706&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Sun, 19 Sep 2021 03:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MThfMTA4/MDAxNjMxOTMwMTAyNTEx.wqXZlUAXyRQ44m1HLoHa7WsMTB-MzOgIl9IoOZGplNEg.bzcCu6V2ry3DJ3Vh3xrXSw6ubifhazhG-xdU3qXbj24g.JPEG/Ig9FWiRpCL25mBFC5oJxAOj9j2hQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32370536&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -169,15 +179,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDJfMTA0/MDAxNjI1MTkyMzg0MzMw.QMSF8PpIyNu7aFDT_WMFzVgX70obg00UGNKipNpQTF8g.bj-ZHsNDKzmddYfsH24bPhoP7-5qU7VOlbU1MZ8LfPog.JPEG/IC3VfM8EtFUEYUVf7quOOX-9i68E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량함이 눈에 보이는 순간✨
-｜NCT DREAM 'Hello Future']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31806715&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31806715&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjJfMjE3/MDAxNjI0MzUwMTE3NTQw.naF1v-y7Rd8mr1ZL7NJnvRVLANDqTEsFgR8pCwWlV34g.BIcFiiCIjhy951Vxff-QZtFxOV53fqqyPPXEl0laVG4g.JPEG/I9NFnvvVPFw2eNZD4kx-KN47Irpc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
