@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 03:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 09:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 24 Sep 2021 09:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfNjYg/MDAxNjMyNDQ4NzQ5NTQx.zXIwitcpKzZtFA8xjrFye8rdWDavwPoGumnv45EFMt4g.BYH-hE_2bAA3GzL7qAvyQT1f3Nf3kCNhpB6vgGzWsX4g.JPEG/IZ4_9qZwjisR_ORf3bWhfDbuulf0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
 웹툰 실사화 비주얼 
@@ -172,14 +180,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfMTk0/MDAxNjI1NDY4MTE2NjIz.XwnBF1vOuRa4qZHTI6IzBJ8vscjl3a2jzGC6ANgh25cg.YwyocmeukUU3b0gBk5wPIWQsy98VVX8bF8tgSalPpzcg.JPEG/IXXsyfP947GpwSlFvZ_VXnionJls.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권유리] 조선시대 옹주자가의 인생개척법!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31890921&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31890921&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDJfMjUy/MDAxNjI1MjIwMzE5MTMx.jay_buqOBbQKqUwFphd5UUKSA059ydrrC5NfqsfeFa8g.sQvWMafLAq-4mypd8RrkHikwB4Q7mqDxo9GGUtJjr1og.JPEG/IhX9PTfAKzl3JGKPrRLS4aPR5Ehk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
