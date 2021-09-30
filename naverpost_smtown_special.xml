@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 15:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 03:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
+비하인드 (feat. 하드털이)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32460036&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32460036&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Thu, 30 Sep 2021 03:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTAx/MDAxNjMyOTIwMzU5MTA0.GTah7XxZrh5HRRqYFUN9DeghEw8-KDO4tKdDLOP6FxMg.KFMDvgF5KXr7qZKPp0ge9x4QsG4wbXLXWNv5YRKGPUgg.JPEG/IecJv6Isw_lKYQV4rzgBFgBxU5AI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -170,16 +179,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMTU0/MDAxNjI2MTQ2ODU4MTE2.yrysNj6zO32Kz6eXj82cAfqhK8hpTWxT70nerSc0wsIg.YdnFsGPlRd0oanTnWV_K_KOYu5y6aoCTMp5pJzhHLw0g.JPEG/Iqc6KXaBNJ5v4qQjn1Hcicq-WxlE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[★데뷔 25주년★ 
-강타의 특별한 선물, 
-'자유롭게 날 수 있도록 2021']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31950283&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31950283&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTRfMTY1/MDAxNjI2MjI3OTE2Njk4.6oEC686eXmA-mxnSe3mQ0li2RnFfX8TVDjxyrzcBH5Mg.kNeNXZKKArr7LRfhlr3lPP7CV7AjiQNakdxV5OLZepsg.JPEG/ImUZRJkQ4CzHQBmKAU_S6zXp3iTE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
