@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 03:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32484519&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32484519&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Tue, 05 Oct 2021 09:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDVfODQg/MDAxNjMzNDAzNDEyNzA1.1eH0oQZVdNLb5B7R0hke7dkYYEKlaVbHk8wyUBoCk3cg.bmAHrSDzfEhLRfiZGKPRgttTkaG5T1mfGhYFBCZnIacg.JPEG/ISi-psbUJdFxcZylvSnJd8Awti-Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
 비하인드 (feat. 하드털이)]]></title>
@@ -171,14 +179,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTZfMTcw/MDAxNjI2NDE4ODQwODc2.3sbgLHtWUTXrh-6UFE5JAd2GsqGOpxXHmOArLhmlSUkg.6YI9qWAETc0W1SnrOY8wrGZpEJ8Damlica-0mL9woGEg.JPEG/IWw9ih4vebE9AteY4jHipUK7_eWI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웬디] '영스트리트' 완디가 왔어요!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31979853&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31979853&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTZfMTky/MDAxNjI2Mzk3ODU1NDg1.xUNWr_MwuU0nYwCrh_6yw11y3WSJFENRtb431bb6KiQg.KvVb3DlyH8hOy-C1R7vYtGUnOw0b5vJgBk9E3VaQp58g.JPEG/IJxYa9yBLkP0cYwC47JslAR25awQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
