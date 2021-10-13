@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 03:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,15 @@
             <pubDate>Tue, 12 Oct 2021 09:38:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfOTkg/MDAxNjMzNjIwNjUwNzI1.nSWv59dRKjpwasL6qS1KVoADnAD5iUFHw97L9uaL1pIg.EjJgSnmAitpPEQ5dtTxbdLMdYzd82fIIWn6JgwC7dpQg.JPEG/IVaeBlXG6k1mKCwf_lIp85OJdh-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["어디서 달달한 냄새 안 나요..?"
+동해 싱글 'California Love' 공개!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 09:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjcg/MDAxNjMzNjcxNzE2ODI4.SPMxA72UAqOoCwoQDuMFG3_ZQgArKUyd7RfzbdUeRNYg.gL_HsOTvBzzWlaRNiprs6c1mVKLzf84Y4sLXz4C_y8Yg.JPEG/I6mTo_EbMFrFo0UHBvHx-9SUlB7o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전!]]></title>
@@ -172,14 +181,6 @@ WayV-TEN&YANGYANG 'Low Low']]></title>
             <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjdfMjU1/MDAxNjI3Mzc0MTU0MzMw.DwziY3mqsUX3L3kUdf4DUU0SzZI52kentVuL8boyfCEg.tIyhWg7O60G7RhBLA-zE9n0vXKRwGXd9addk4ASIS2kg.JPEG/I4yRxgXBAcOIyJhXM2mFIRU0eVo0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디오 '공감' 자켓 & MV 촬영 비하인드 준비했됴 (Feat. 이벤트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32038931&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32038931&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjVfMTAg/MDAxNjI3MjEzMjE1NDg0.d5mAB2d7IVIMSiQguOFahDpwCx9XCWzexh9AuzWAwHIg.4xzWj9AdSQWC847MYF8qMTN3vdWzHUF2EFw822aoWV8g.JPEG/IOY8oP3IgZso4eSVqDe8ZS2lFrdE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
