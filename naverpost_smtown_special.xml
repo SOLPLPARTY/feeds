@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 03:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
+은혁의 데뷔 첫 싱글 'be']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Oct 2021 09:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTgw/MDAxNjM0NDgzNjE0NDMw.YxM6mY-TACfQJ06rjEUuialpQ71Oxf681DSh7N8yncwg.TMdFapV15Htfc-rIQfOjRUKGzcjjsngnenk7x_1TGykg.JPEG/I-rQgp66oPedD-QH3oAVVL_kjYF4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32552399&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,15 +180,6 @@
             <pubDate>Mon, 16 Aug 2021 09:37:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTVfMTE0/MDAxNjI5MDE3NjI3MDkx.QgCtf9KEWzvGzxPWxBXdmKhANX2ve5KZUzIT2laYIj4g.VRyeCDQV9zHVjop43h9H3Tte6L-TQZb5Y6yH81dyTjEg.JPEG/IDGCWufOOLrG4qJqI9L0ycxpzL5Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러움이 두 배!
-WayV-TEN&YANGYANG 'Low Low']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 17 Aug 2021 09:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMTA1/MDAxNjI5MTY2OTM3MDY1.WNf_R01TSX9owVzvo0sLnWTDiDz8Qe63PrQwX9X2Z9Ig.W1l8X5VRosMXSiNSMd0VfOpXMjo2NHnnvIxiBar2OBgg.JPEG/Ixs6_TiOXowdUoEdubw08VKzFElQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
