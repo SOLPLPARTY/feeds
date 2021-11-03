@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 15:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@ D&E 첫 정규앨범 'COUNTDOWN' 발매✨]]></title>
             <pubDate>Tue, 02 Nov 2021 09:39:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMTQ0/MDAxNjM1NDc4MDQ1MzU5.FXyKFrANVzpPIcZSiQxC3BltogMRZxjvCs0SVaLQvq8g.l6StrB2Y-8EfVmCeXFcXBh-_cJpFQLxTcQYFU7B6rkgg.JPEG/IYrZ5TG42-T2dY8DVR1l1xhEB1o8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D&E 없이 엘프는 ZERO ♥
+MV 비하인드 현장!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32642334&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32642334&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 Nov 2021 03:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMjI3/MDAxNjM1NDAxODQwODU3.i1yRpfqrZPEgzknTjqWlvac0BBH1l1bvuCm_hdju3VAg.G5lSYzlUqqoQDUQXgcdI_8HB6lKyVGLLVGq-siICKu4g.JPEG/ILjwMt0bIAyFfcuhilbzPe98FakI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소)]]></title>
@@ -173,14 +182,6 @@ D&E 첫 정규앨범 'COUNTDOWN' 발매✨]]></title>
             <pubDate>Tue, 07 Sep 2021 03:36:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMjg5/MDAxNjMwOTA3NjQ1NDM2.zJ8wo4RE-3RbEOxnyqC1hJv-Uxg1tJNiX5RlCsLGmlIg.GIxJDPCC4JtRruIpjOCAiCQbbyxOL11QPD5rxoiabEcg.JPEG/IjQOXUfvUwXg1aHbX7CoZbLBlvhs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[임윤아] Photo Shoot For S♡NE]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32289994&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32289994&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Sep 2021 03:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDJfMTYg/MDAxNjMwNTUwMDA3NDY2.diCmpOQJ5HqQnkBOkV2rB-wFTJktPBovj5_XxU-P_GUg.qgI__okqx5kW90YUcmfAYpoatfVyzyYyh67plyJTRucg.JPEG/IF-YnFB3nOOGV_PYtH6aIvKg-ZP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
