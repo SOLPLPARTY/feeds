@@ -4,9 +4,19 @@
         <title>MSBSOUND ─ Behind Story</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 03:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매직스트로베리사운드 X 비보 
+'잘 먹고 잘 사는 법' 비하인드 포토 
+모아보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32689876&amp;memberNo=838758&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32689876&amp;memberNo=838758&amp;navigationType=push</guid>
+            <pubDate>Fri, 05 Nov 2021 09:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDRfMjk4/MDAxNjM2MDE4ODcwNTY4.XR-VSVoFdzYerDUWQ1w79NMLd6zhHRS1ydT4XxUrkjcg.IRqSFRKn6dKeLiOho3CeqbrpY3f9Sy7YUMCHzvLIPi0g.GIF/Iu0HsJ6QInDR4fjGYmFjUuDV68jY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실리카겔 단독 공연 [Desert Eagle] 미공개 사진 대 방출]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32481277&amp;memberNo=838758&amp;navigationType=push</link>
@@ -163,15 +173,6 @@
             <pubDate>Mon, 02 Aug 2021 00:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDNfMTMy/MDAxNTgwNzIwNzY5NDE3.aRGmX-Oyy6PbzyvDl97aZGg7wrVgd9Fo2Coao15JYwsg.-6zpqaj1rwXzk3qW9ZKCqQtD1NR2u2lX4xs9QPVafG4g.PNG/Ie2xMPaw7FUInQG4hdxsoGbhC3lU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 공연은 역시,
-옥상달빛 <수고했어 올해도>]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27384793&amp;memberNo=838758&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27384793&amp;memberNo=838758&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Aug 2021 00:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMjBfMjIy/MDAxNTc5NTE0MTkzNjEy.tlNg3i5i_u0lACgaY7wkzGjnjN0S4l9HO9qcSYo3naog.TObnjURZXmTZXK0v1EiiVzCSk0ztKSpgt07vwYMu2-Eg.JPEG/IMttrjoXtWirYNvKYHfRMSZOyhII.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
