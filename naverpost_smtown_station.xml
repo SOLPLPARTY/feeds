@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SM STATION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 03:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION] 요한킴 X 황호규 '우리들의 맹세 (Jazz Ver.)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32818272&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32818272&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 09:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjI2/MDAxNjM3ODUzODMxNDIy.7i9upodjB-o50uF9Efk9YsgFxfJUTHFZc80FwRN38RAg.dOrp676bvpOSmSf4CrfhOLQz1uFm71mwgE3JiwUjxu0g.JPEG/ImgFrRgWLUjpn_-jdfZon4mqL4yc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM STATION] 텐 'Paint Me Naked']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32090726&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -174,15 +182,6 @@ Our Beloved BoA #1 백현 '공중정원']]></title>
             <pubDate>Thu, 07 Oct 2021 09:37:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMTJfMjUz/MDAxNTc2MTM1ODA4NzE4.GMYhgaCrMxD9sl_EowG5XEslBNeiURHlvViUk75MGCcg.GjDQGz_isMpv5y8LOSn4CimocX5wHRdag55YK192UNQg.JPEG/InDwlSPSxbphEx4b9FyfYsS8-_Hc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION X]
-⛄️ NCT U 'Coming Home']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27020333&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27020333&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 09:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMTNfNTkg/MDAxNTc2MjA2NTgyOTM3.nYNDrORKu8F4oyacHkv3GL3Vd2cv3t8bAvcjLd9vIMcg.ZdsGGXRln6bnk88O7Jpp4rB4iKbdayPQb-fMjpTJJ2sg.JPEG/I1bqHDM7oc8mAy-y75bCzgbSXWL8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

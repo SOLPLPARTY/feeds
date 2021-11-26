@@ -4,9 +4,17 @@
         <title>문화인 ─ Special</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 03:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[문플리] 나를 영화 주인공으로 만들어 주는 인디음악 모음]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32832048&amp;memberNo=32269214&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32832048&amp;memberNo=32269214&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 09:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfODQg/MDAxNjM3ODk3NTkxNTg4.sjjcjbGyS0u-JOvkG7K97878wyenDUJrzvNvx73ZUP0g.C2KWjFsSuL5TNmsbjk14ODhT94hb3U2EEpq_0rtu6Z4g.JPEG/IFMWpBr18tBSVzVYLvvDZ6pgfcFA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문플리] 들으면 기분 좋아지는 국내 감성 힙합 모음]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32773114&amp;memberNo=32269214&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 09:37:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMTUw/MDAxNjI2MTU4MzE5MTY2.qrvXkvNDOkow4L1L7jlv6T2kMEmdkUS5Y-xJwSTnpk0g.IhmgMLH2Bexk1AawwEzUtSKU3Clk-mefEqgRDYRdT8cg.JPEG/IQIcaPes2d3-tCRHvvzNnmkDdL2w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문플리] 해질녘 오후 7시 30분부터 8시 45분까지 듣는 노래]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31912270&amp;memberNo=32269214&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31912270&amp;memberNo=32269214&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 09:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">문화인</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDZfMTE5/MDAxNjI1NTUzNDY4MjU2.QwiyVr8-8R33M-vm-Iz0dng2ckydbHCY807F9d7vv4wg.j_k21I9WYqBN--eX-qCtf1ro8BFh5yLJXMAWL4FzcdMg.JPEG/IxM1C9DwfmMDa78IUpFayAQsYu4Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
